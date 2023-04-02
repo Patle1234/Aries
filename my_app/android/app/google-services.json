@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15254736667",
+    "project_id": "aries-e4f0f",
+    "storage_bucket": "aries-e4f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15254736667:android:22cdb8d9c1b47b5947cdbe",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15254736667-v75o0kcqu3aujjm5up0re2a72f1qkebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dBgPWkO67BdwjgJDNN7bb0YewUlOxHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15254736667-v75o0kcqu3aujjm5up0re2a72f1qkebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
